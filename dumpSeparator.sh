@@ -1,8 +1,12 @@
 #!/bin/bash
 
 #Copyright (c) 2018 Riccardo Gagliarducci <riccardo@brixel.it>
+#https://github.com/canonex/dumpSeparator
+
 #This is free software.  You may redistribute copies of it under the terms of the GNU General Public License.
 #There is NO WARRANTY, to the extent permitted by law.
+
+
 
 #Courtesy of https://stackoverflow.com/questions/16483119/an-example-of-how-to-use-getopts-in-bash
 
