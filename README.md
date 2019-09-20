@@ -17,6 +17,6 @@ This command will create a backup file and a new file with only the myDatabase d
 ## Purge example 
 To purge a huge database dump from a single not useful database:
 
-    ./dumpSeparator.sh extract myDatabase myDump.sql
+    ./dumpSeparator.sh purge myDatabase myDump.sql
 
 This command will create a backup file and a new file without the myDatabase dump.
