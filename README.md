@@ -7,6 +7,11 @@ This bash script uses sed to quickly edit those files.
 **Warning**
 This script has not been extensively tested and it is supposed to work for moderate size dump (<10Gb).
 
+## List example
+To list all the databases in a dump:
+
+    ./dumpSeparator.sh list myDump.sql
+
 ## Extract example
 To extract a single database dump:
 
