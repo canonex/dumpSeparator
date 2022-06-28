@@ -1,6 +1,8 @@
 # DumpSeparator
 Allows to extract a single database from a collective dump or purge the full dump from a single database.
 
+![Db tools](db-tools.svg)
+
 Huge mysql dump that contains many databases are not manageable from any text editor (Joe https://joe-editor.sourceforge.io/  is one of the few).
 This bash script uses sed to quickly edit those files.
 
