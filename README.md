@@ -25,3 +25,7 @@ To purge a huge database dump from a single not useful database:
     ./dumpSeparator.sh purge myDatabase myDump.sql
 
 This command will create a backup file and a new file without the myDatabase dump.
+
+## How to create a mysql dump?
+You can create a dump using the [mysqldump](https://mariadb.com/kb/en/mariadb-dumpmysqldump/) utility, for MySql and MariaDb.
+You want an automatic procedure? Try using [backupMysql](https://github.com/canonex/backupMysql)
